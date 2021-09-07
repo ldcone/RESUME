@@ -29,7 +29,7 @@
 * Computer Networking: A Top-Down Approach , 7th edition
 * Operation System Concepts, 10th edition
 
-## 사용해본 및 경헙해본 툴
+## 사용해본 및 경험해본 툴
 * Firebase(Realtime Database, Storage, Authentication)
 * Android Studio
 * Eclipse
