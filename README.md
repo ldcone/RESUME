@@ -19,7 +19,7 @@
 
 ## 프로젝트
 * TTS및 STT를 활용한 문장알림서비스 어플리케이션(https://github.com/ldcone/kakatooth_sms)
-* 공연정보제공 서비스 어플리케이션(https://github.com/JayHan-K/TodayPlay_Android)(서버패쇄로 원활한 작동 X)
+* 공연정보제공 서비스 어플리케이션(https://github.com/JayHan-K/TodayPlay_Android) (서버패쇄로 원활한 작동 X)
 * 임베디드를 활용한 자세교정 어플리케이션(외주)
 * Tesorflow Lite 예제를 활용한 넘어짐 감지 및 울음 감지 서비스 
 
