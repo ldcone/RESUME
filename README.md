@@ -16,6 +16,7 @@
 * MVC
 * RestAPI(Volley)
 * Async Task
+* Databinding
 
 ## 프로젝트
 * TTS및 STT를 활용한 문장알림서비스 어플리케이션(https://github.com/ldcone/kakatooth_sms)
@@ -26,6 +27,7 @@
 ## STUDY
 * 패스트 캠퍼스(30개 프로젝트로 배우는 Android 앱 개발 with Kotlin 초격차 패키지 Online.)
 - (2021/12/15)배우고 있는 기술 스택(Coroutine, Mockito, Room, Retrofit2, Junit, MVVM,koin)
+- (2021/12/31)관심있는 기술 스택(compose,hilt,Rxjava,livedata)
 * Computer Networking: A Top-Down Approach , 7th edition
 * Operation System Concepts, 10th edition
 
