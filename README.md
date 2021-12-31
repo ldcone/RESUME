@@ -20,8 +20,10 @@
 
 ## 프로젝트
 * TTS및 STT를 활용한 문장알림서비스 어플리케이션(https://github.com/ldcone/kakatooth_sms)
-* 공연정보제공 서비스 어플리케이션(https://github.com/JayHan-K/TodayPlay_Android) (2021 예술 분야 창업 아이디어 경진대회 최종 선정 2021.05.04),(개선작업진행예정)
+* 공연정보제공 서비스 어플리케이션(https://github.com/JayHan-K/TodayPlay_Android) (2021 예술 분야 창업 아이디어 경진대회 최종 선정 2021.05.04)
+   - 안드로이드 개발 (volley와 async task르 활용해 서버 이미지 업로드 및 다운로드 과정 개발, sqlHelper를 활용해 공연정보 검색 개발)
 * 임베디드를 활용한 자세교정 어플리케이션(외주)
+   - 안드로이드 개발 (기존 앱 수정 : Lifecycle 개선 및 bottomNavigation을 활용해 앱사용 직관성 개선)
 * Tesorflow Lite 예제를 활용한 넘어짐 감지 및 울음 감지 서비스 (https://github.com/ldcone/firebaseconnected)
 
 ## STUDY
