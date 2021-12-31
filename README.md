@@ -20,7 +20,7 @@
 
 ## 프로젝트
 * TTS및 STT를 활용한 문장알림서비스 어플리케이션(https://github.com/ldcone/kakatooth_sms)
-* 공연정보제공 서비스 어플리케이션(https://github.com/JayHan-K/TodayPlay_Android) (서버패쇄로 원활한 작동 X)(진행중)
+* 공연정보제공 서비스 어플리케이션(https://github.com/JayHan-K/TodayPlay_Android) (2021 예술 분야 창업 아이디어 경진대회 최종 선정 2021.05.04),(개선작업진행예정)
 * 임베디드를 활용한 자세교정 어플리케이션(외주)
 * Tesorflow Lite 예제를 활용한 넘어짐 감지 및 울음 감지 서비스 (https://github.com/ldcone/firebaseconnected)
 
@@ -30,7 +30,7 @@
 - (2021/12/31)관심있는 기술 스택(compose,hilt,Rxjava,livedata)
 * Computer Networking: A Top-Down Approach , 7th edition
 * Operation System Concepts, 10th edition
-
+* 새로배운 기술을 활용한 지하철앱(토이프로젝트) 작업중 (12/30)(https://github.com/ldcone/subway)
 ## 사용해본 및 경험해본 툴
 * Firebase(Realtime Database, Storage, Authentication)
 * Android Studio
